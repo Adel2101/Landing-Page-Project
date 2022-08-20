@@ -27,7 +27,7 @@ let landingPageFragment = document.createDocumentFragment();
 let landingPageNavigationList = document.getElementById("navbar__list");
 let menuButton = document.getElementById("menuButton");
 let menuButtonStatus = "notClicked";
-let mobileDevicewidth = 600;
+let mobileDevicewidth = 400;
 /**
  * End Global Variables
  * Start Helper Functions
